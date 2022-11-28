@@ -1,5 +1,5 @@
 # awesome-web3-developer
-List of tools and services to build web3 apps. 
+List of tools, libraries and services to build web3 apps. 
 
 **Feel free to contribute**: add new topic, and new service to already existing topic, ...
 
@@ -16,6 +16,17 @@ Get access to blockchains via RPC node.
 * [Moralis.io](https://moralis.io/)
 * [NowNodes.io](https://nownodes.io/nodes)
 * [QuickNode.com](https://www.quicknode.com/)
+
+## Web3 Libraries 📚
+List of libraries to build web3 apps grouped by programming language.
+
+### JavaScript
+* [web3js](https://web3js.readthedocs.io/en/v1.8.1/)
+
+
+### Python
+* [web3py](https://web3py.readthedocs.io/en/v5/)
+
 
 ## Token Prices 💲
 
