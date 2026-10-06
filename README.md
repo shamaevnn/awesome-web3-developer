@@ -13,6 +13,7 @@ Get access to blockchains via RPC node.
 * [ChainList.org](https://chainlist.org/) — free RPC
 * [ChainStack.com](https://chainstack.com/protocols/)
 * [Infura.io](https://www.infura.io/)
+* [LYFTIUM.com](https://www.lyftium.com/) — Ethereum Mainnet JSON-RPC priced in rpm (fail-closed tip gate)
 * [Moralis.io](https://moralis.io/)
 * [NowNodes.io](https://nownodes.io/nodes)
 * [QuickNode.com](https://www.quicknode.com/)
